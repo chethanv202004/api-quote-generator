@@ -1,7 +1,6 @@
 # api-quote-generator
 
-Commands to run the code 
- put the ejs file into a folder named views
+Commands to run the code first put the ejs file into a folder named views
 
 ```
 npm init
