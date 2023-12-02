@@ -9,3 +9,8 @@ npm init
 ```
 node random-quote.ejs
 ```
+
+> [!NOTE]
+> Make Sure node is already installed
+
+Link to download node [NODE WEBSITE](https://nodejs.org/en/download/current).
